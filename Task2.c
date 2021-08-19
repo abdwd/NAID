@@ -69,7 +69,7 @@ uint8* balancedParentheses(uint8* expression)
 
 int main()
 {
-    char str[30];
+    char str[100];
     gets(str);
     printf("%s", balancedParentheses(str));
   
