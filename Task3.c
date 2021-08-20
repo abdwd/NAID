@@ -66,7 +66,7 @@ int BinarySearch(uint32* arr, uint8 size, uint32 number)
 int main()
 {
     uint32 arr[256];
-    uint8 size;
+    uint32 size;
     uint32 input;
     uint32 number;
 
